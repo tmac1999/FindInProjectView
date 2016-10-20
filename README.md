@@ -12,5 +12,5 @@
       See details in github.https://github.com/tmac1999/FindInProjectView
       ```
 ![png](https://github.com/tmac1999/ViewPagerGuideDotsDemo/blob/master/images/circle.png)
-```
-![png](https://github.com/tmac1999/FindInProjectView/tree/master/tutorial pics/tutor1.png)
+      ```
+![png](https://github.com/tmac1999/FindInProjectView/tree/master/tutorialpics/tutor1.png)
