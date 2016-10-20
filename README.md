@@ -11,7 +11,8 @@
       FindInProjectView help you quickly find the file in project view.
       See details in github.https://github.com/tmac1999/FindInProjectView
       
-
+### Tutorial images （Open following pics in browse to see in high resolution ） 
+### (如果图片太小看不清，右键选择从浏览器中打开图片看大图)
      
 ![png](https://github.com/tmac1999/FindInProjectView/blob/master/tutorialpics/tutor1.png)
 
