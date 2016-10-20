@@ -10,7 +10,11 @@
       When the project is getting larger,it take times (Even use search tool)
       FindInProjectView help you quickly find the file in project view.
       See details in github.https://github.com/tmac1999/FindInProjectView
-      ```
-![png](https://github.com/tmac1999/ViewPagerGuideDotsDemo/blob/master/images/circle.png)
-      ```
-![png](https://github.com/tmac1999/FindInProjectView/tree/master/tutorialpics/tutor1.png)
+      
+
+     
+![png](https://github.com/tmac1999/FindInProjectView/blob/master/tutorialpics/tutor1.png)
+
+![png](https://github.com/tmac1999/FindInProjectView/blob/master/tutorialpics/tutor2.png)
+
+![png](https://github.com/tmac1999/FindInProjectView/blob/master/tutorialpics/tutor3.png)
