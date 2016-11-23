@@ -1,3 +1,7 @@
+#androidstudio这个按钮，见
+https://github.com/tmac1999/FindInProjectView/issues/1
+另外在导航栏也可以直接右键复制文件。
+这个插件就当做一个参考吧，以后有别的需求了，可以参考一下实现。
 # FindInProjectView
 ##中文
       Editor打开一个文件时（图片资源或者类文件,xml文件等），有时为了复制或者做其他事情，需要去左边面板project视图找到此文件。
